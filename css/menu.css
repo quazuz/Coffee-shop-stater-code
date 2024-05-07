@@ -1,0 +1,176 @@
+.nitro-coffee-logo{
+  /*  background-image: url(../assets/logos/coffee-beans-logo-and-footer.svg);*/
+    width: 3rem; /*50px;*/
+    height: 3rem; /*50px;*/
+    
+}
+.coffee-nitro-a{
+    text-decoration: none;
+    font-size: 2rem; /*33px;*/
+    display: inline-block;
+}
+
+.Menu-list{
+    background-color: #393939;
+    margin: -16px; 
+}
+
+header {
+    width: 100%;
+    padding: 20px;
+}
+
+.nav-bar-image,
+.nav-bar-text {
+  display: inline-block;
+}
+
+.nav-bar-text {
+  font-size: 54px;
+  font-weight: 400;
+}
+
+.nav-bar-links {
+  display: inline-block;
+}
+
+.nav-bar-links ul li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+
+ 
+ 
+
+.nav-heading-li{
+    list-style: none;
+    font-size: 2rem; /*33px;*/
+    font-weight: 300;
+    /*display: inline-block;*/
+    
+}
+
+.item-nav{
+    text-decoration: none;
+
+    display: inline-block;
+}
+
+.nav-link{
+    list-style: none;
+    text-align: center;
+    
+    display: inline-block;
+    
+   
+    margin-right: 1rem;
+    padding: 0.5rem 1rem;
+    border-left: 4px solid #5BACC3;
+
+    
+    
+}
+
+.item-color{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+
+}
+
+.nav-intro{
+    display: inline-block;
+    background-color: #FFF0ED;
+    height: 20px;
+    width: 100%;
+    
+    
+}
+
+.Hot-drink, .Pastries{
+    background-color: #FFF0ED;
+    margin: -55px;
+    padding-bottom: 12px;
+}
+
+.Cold-drink{
+    background-color: #F7F7F7;
+    padding-bottom: 12px;
+}
+
+.heading2{
+    font-size: 4rem; /*60px;*/
+    font-weight: 300;
+    
+    
+}
+
+.nav-heading, .heading3{
+
+    font-size: 2rem; /*33px;*/
+    font-weight: 300;
+    
+}
+
+.paragraph-nitro{
+    font-size: 1rem; /*18px;*/
+    font-weight: 400;
+    
+}
+
+.coffee-description{
+    font-style:  300;
+    font-weight:  400;
+    width: 25rem; /*400px;*/
+    font-style: italic;
+    margin:0 auto;
+    
+    
+
+}
+
+.coffee-price{
+    color: #5BACC3;
+}
+
+/*.title-box{
+    width: 100%;
+    height: 700px;
+    background-color: #393939;
+    text-align: center;
+    text-decoration-color: #F7F7F7;
+    background-image: url("../assets/images/coffee-circle.jpg");
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}*/
+
+.title-box {
+    width: 100%;
+    height: 44rem; /*700px;*/
+    background-image: url(../assets/images/coffee-circle.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
+  
+  
+
+  .heading1 {
+    width: 300px;
+    height: 200px;
+    background-color: #393939;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+
+    font-size: 4rem;
+    font-weight: 300;
+    padding: 20px;
+  }

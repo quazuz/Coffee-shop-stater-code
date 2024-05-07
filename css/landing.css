@@ -1,0 +1,70 @@
+.nav-heading-li{
+    list-style: none;
+    font-size: 1rem; /*18px;*/
+    font-weight: 400;
+}
+
+.coffee-nitro-a{
+    text-decoration: none;
+    font-weight: 400;
+}
+
+/*.nav-heading{
+
+}*/
+
+.header-nav, footer, .nitro-coffee{
+    background-color: #FFF0ED;
+}
+
+.heading3{
+    font-size: 2rem; /*33px;*/
+    font-weight: 300;
+}
+.button{
+    background-color: #5BACC3;
+    color: white;
+    border: 0;
+    font-size: 1rem; /*18px;*/
+    font-weight: 400;
+}
+.discount-font{
+    background-color: #393939;
+    text-align: center;
+    color: #FFF0ED;
+    margin: auto;
+    width: 90%;
+    font-size: 3rem; /*45px;*/
+    font-weight: 400;
+    display: inline-block;
+    
+    
+}
+.dicount{
+    height: 2rem; /*30px;*/
+    
+}
+
+
+.coffee-price{
+    color: #5BACC3;
+    font-style: italic;
+    font-size: 1rem; /*18px;*/
+}
+
+.heading1, .heading2{
+    font-size: 4rem; /*60px;*/
+    font-weight: 300;
+} 
+
+.products{
+    height: 18rem; /*280px;*/
+}
+.logo{
+    width: 3rem; /*50px;*/
+}
+.description{
+    font-size: 1rem; /*18px;*/
+    font-weight: 400;
+
+}
